@@ -72,3 +72,7 @@ The box is modelled in [FreeCAD](https://www.freecad.org/). If you open the spre
 ## Disclaimer/warning on bottom
 
 There is a disclaimer/warning on the bottom of the box advicing not to throw it in the dishwasher and using it for dry treats only. These warnings largely depends on the filament and 3d printer, but for conventional 3d printing with PLA they probably apply. There are .3mf files with and without the warning, so you can decide wether to keep them or not.
+
+## License
+
+This work is licensed under a [Creative Commons (4.0 International License) Attribution-NonCommercial](https://creativecommons.org/licenses/by-nc/4.0/)
